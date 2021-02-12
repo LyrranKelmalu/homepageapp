@@ -40,7 +40,7 @@ export default {
       } catch (e) {
         console.log(e)
       }
-      //test git
+      //test
     },
     // here we make single product array to each product
     async fetchProductById ({ commit }, id) {
